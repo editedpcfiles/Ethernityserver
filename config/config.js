@@ -529,6 +529,13 @@ exports.grouplist = [
 		name: "Administrator",
 		root: true,
 		globalonly: true
+	},	
+	{
+		symbol: '♪',
+		id: "slayer",
+		name: "Dragon Slayer",
+		root: true,
+		globalonly: true
 	},
 	{
 		symbol: '#',
